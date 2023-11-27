@@ -1,0 +1,12 @@
+{
+    "name": "mjmconvento/github_actions",
+    "description": "Composer json for github actions test.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Millicent Convento",
+            "email": "millicent.convento@konvoykegs.com"
+        }
+    ],
+    "require": {}
+}
